@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482471678856",
+    "project_id": "gioapp-8d7ba",
+    "storage_bucket": "gioapp-8d7ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482471678856:android:9690340954292e4c2fa03d",
+        "android_client_info": {
+          "package_name": "com.gio.teranov"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOlZT2-UsRqhCtabVfeZvncrhjVbqYosE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
